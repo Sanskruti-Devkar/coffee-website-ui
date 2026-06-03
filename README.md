@@ -4,7 +4,7 @@ A responsive Coffee Website UI built using Bootstrap. This project was created t
 
 ## Live Demo
 Visit the website here:
- https://sanskruti-devkar.github.io/coffee-website-ui/⁠�
+ https://sanskruti-devkar.github.io/coffee-website-ui/)
  
 ## About the Project
 This Coffee Website UI is designed to provide an attractive and user-friendly interface for a coffee shop or café. The website focuses on clean design, responsiveness, and smooth user experience across different devices.
